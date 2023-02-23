@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Resume</string>
+    <string name="resume_builder">Resume Builder</string>
+    <string name="title_activity_add_resume_details">AddResumeDetailsActivity</string>
+</resources>
